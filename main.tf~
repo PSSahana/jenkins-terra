@@ -1,6 +1,5 @@
 variable "vpcnaming"{
    type = string
-   default = "jeknin-vpc"
    description =  "setname for vpc"
 }
 
